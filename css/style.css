@@ -1,0 +1,81 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.NewMockup1row0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 5px;
+  width: 1197px;
+  height: 73px;
+  align-items: stretch
+}
+.style2 {
+  margin-left: 0;
+  width: 382px
+}
+.NewMockup1row0unsupported0 {
+  margin-left: 16px;
+  width: 528px
+}
+.style0 {
+  background-color: #2b78e4;
+  border-left: 3px solid #000;
+  border-right: 3px solid #000;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-shadow: 60px 60px 0 0 #000;
+  display: flex;
+  margin-left: 0;
+  width: 271px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style1,
+.style3 {
+  font-family: BalsamiqSans,serif
+}
+.style1 {
+  text-align: center;
+  height: 35px;
+  font-size: 2em
+}
+.style3 {
+  font-size: 2.3125em;
+  margin-left: 30px;
+  margin-top: 65px;
+  width: 1140px
+}
+.style4 {
+  background-color: #2b78e4;
+  border-left: 3px solid #000;
+  border-right: 3px solid #000;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-shadow: 60px 60px 0 0 #000;
+  display: flex;
+  margin-left: 368px;
+  margin-top: 68px;
+  width: 466px;
+  height: 184px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style5,
+.style6 {
+  font-family: BalsamiqSans,serif
+}
+.style5 {
+  text-align: center;
+  height: 35px;
+  font-size: 2em
+}
+.style6 {
+  font-size: 1.875em;
+  margin-left: 89px;
+  margin-top: 0;
+  width: 1081px
+}
